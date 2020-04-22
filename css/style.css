@@ -1,6 +1,6 @@
 /*
 	App by FreeHTML5.co
-	Twitter: http://twitter.com/fh5co
+	Twitter: http://twitter.com/tk5co
 	URL: http://freehtml5.co
 */
 @import url("https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800");
@@ -32,7 +32,7 @@ html {
   color: #234197 !important;
 }
 
-#fh5co-hero-wrapper {
+#tk5co-hero-wrapper {
   height: 800px;
   width: 100%;
   background: url("../img/banner-bg.jpg") no-repeat center;
@@ -90,17 +90,17 @@ html {
   transition: all .2s ease;
 }
 
-.fh5co-hero-inner {
+.tk5co-hero-inner {
   margin-top: 110px;
   position: relative;
 }
-.fh5co-hero-inner > h1 {
+.tk5co-hero-inner > h1 {
   color: #fff;
   font-weight: 300;
   font-size: 55px;
   letter-spacing: 2px;
 }
-.fh5co-hero-inner > p {
+.tk5co-hero-inner > p {
   width: 400px;
   font-size: 14px;
   color: #fff;
@@ -108,13 +108,13 @@ html {
   margin-bottom: 30px;
   line-height: 2em;
 }
-.fh5co-hero-inner .download-btn-first {
+.tk5co-hero-inner .download-btn-first {
   font-size: 15px;
   padding: 10px 15px;
   font-weight: 700;
   color: #234197;
 }
-.fh5co-hero-inner .features-btn-first {
+.tk5co-hero-inner .features-btn-first {
   font-size: 15px;
   padding: 8px 13px;
   font-weight: 400;
@@ -122,7 +122,7 @@ html {
   color: #fff;
   margin-left: 10px;
 }
-.fh5co-hero-inner .fh5co-hero-smartphone {
+.tk5co-hero-inner .tk5co-hero-smartphone {
   position: absolute;
   right: 0px;
   top: 120px;
@@ -132,34 +132,34 @@ html {
 /* ==========================================================================================================
 										ADVANTAGES
    ========================================================================================================== */
-.fh5co-advantages-outer {
+.tk5co-advantages-outer {
   padding: 70px;
   height: auto;
   width: 100%;
   overflow: hidden;
 }
-.fh5co-advantages-outer .span-perfect {
+.tk5co-advantages-outer .span-perfect {
   color: #648cff;
   text-transform: uppercase;
   font-size: 27px;
   letter-spacing: 1px;
 }
-.fh5co-advantages-outer .span-features {
+.tk5co-advantages-outer .span-features {
   text-transform: uppercase;
   font-size: 42px;
 }
-.fh5co-advantages-outer .second-title {
+.tk5co-advantages-outer .second-title {
   text-align: center;
   display: block;
 }
-.fh5co-advantages-outer small {
+.tk5co-advantages-outer small {
   display: block;
   text-align: center;
 }
-.fh5co-advantages-outer .fh5co-advantages-grid-columns {
+.tk5co-advantages-outer .tk5co-advantages-grid-columns {
   margin-top: 120px;
 }
-.fh5co-advantages-outer .fh5co-advantages-grid-columns .col-sm-4 .grid-image {
+.tk5co-advantages-outer .tk5co-advantages-grid-columns .col-sm-4 .grid-image {
   width: 30%;
   float: left;
   padding-right: 30px;
@@ -167,12 +167,12 @@ html {
   top: 1px;
   color: #648cff;
 }
-.fh5co-advantages-outer .fh5co-advantages-grid-columns .col-sm-4 .grid-title {
+.tk5co-advantages-outer .tk5co-advantages-grid-columns .col-sm-4 .grid-title {
   float: left;
   font-size: 20px;
   font-weight: 600;
 }
-.fh5co-advantages-outer .fh5co-advantages-grid-columns .col-sm-4 .grid-desc {
+.tk5co-advantages-outer .tk5co-advantages-grid-columns .col-sm-4 .grid-desc {
   float: right;
   font-size: 13px;
   padding-right: 7%;
@@ -182,7 +182,7 @@ html {
   line-height: 1.87em;
 }
 
-.fh5co-slider-inner {
+.tk5co-slider-inner {
   margin-top: 50px;
   margin-bottom: 30px;
 }
@@ -190,12 +190,12 @@ html {
 /* ==========================================================================================================
 										SLIDER
    ========================================================================================================== */
-.fh5co-slider-outer {
+.tk5co-slider-outer {
   width: 100%;
   height: auto;
   padding: 70px;
 }
-.fh5co-slider-outer h1 {
+.tk5co-slider-outer h1 {
   color: #648cff;
   text-transform: uppercase;
   font-size: 30px;
@@ -203,28 +203,28 @@ html {
   margin-bottom: 10px;
   text-align: center;
 }
-.fh5co-slider-outer > h1, .fh5co-slider-outer small {
+.tk5co-slider-outer > h1, .tk5co-slider-outer small {
   text-align: center;
   display: block;
 }
-.fh5co-slider-outer .fh5co-slider-outer {
+.tk5co-slider-outer .tk5co-slider-outer {
   margin-top: 50px;
 }
-.fh5co-slider-outer .carousel-left-arrow {
+.tk5co-slider-outer .carousel-left-arrow {
   position: absolute;
   left: -100px;
   bottom: 250px;
   font-size: 60px;
   color: #ececec;
 }
-.fh5co-slider-outer .carousel-right-arrow {
+.tk5co-slider-outer .carousel-right-arrow {
   position: absolute;
   right: -100px;
   bottom: 250px;
   font-size: 60px;
   color: #ececec;
 }
-.fh5co-slider-outer .item img {
+.tk5co-slider-outer .item img {
   height: 400px;
   width: 200px;
   object-fit: contain;
@@ -241,40 +241,40 @@ html {
   height: 300px;
 }
 
-.fh5co-features-outer {
+.tk5co-features-outer {
   width: 100%;
   height: auto;
   margin-top: -180px;
 }
-.fh5co-features-outer .col-sm-6 {
+.tk5co-features-outer .col-sm-6 {
   margin-top: 80px;
 }
-.fh5co-features-outer .col-sm-6 img {
+.tk5co-features-outer .col-sm-6 img {
   height: 550px;
 }
-.fh5co-features-outer .sm-6-content {
+.tk5co-features-outer .sm-6-content {
   margin-top: 250px;
   position: relative;
 }
-.fh5co-features-outer .sm-6-content h1 {
+.tk5co-features-outer .sm-6-content h1 {
   color: #648cff;
   text-transform: uppercase;
   font-size: 25px;
   font-weight: 600;
   margin-bottom: 20px;
 }
-.fh5co-features-outer .sm-6-content p {
+.tk5co-features-outer .sm-6-content p {
   color: #111;
   font-weight: 500;
   font-size: 14.5px;
   line-height: 1.8em;
   width: 450px;
 }
-.fh5co-features-outer .col-sm-6 .col-sm-image-container {
+.tk5co-features-outer .col-sm-6 .col-sm-image-container {
   position: relative;
   width: 300px;
 }
-.fh5co-features-outer .col-sm-6 .span-new {
+.tk5co-features-outer .col-sm-6 .span-new {
   color: #fff;
   background: #fcec64;
   padding: 18px;
@@ -291,7 +291,7 @@ html {
   right: 0;
   top: 140px;
 }
-.fh5co-features-outer .col-sm-6 .span-free {
+.tk5co-features-outer .col-sm-6 .span-free {
   color: #fff;
   background: #6ca3ff;
   padding: 18px;
@@ -308,7 +308,7 @@ html {
   bottom: -430px;
   font-weight: 700;
 }
-.fh5co-features-outer .col-sm-6 .span-data {
+.tk5co-features-outer .col-sm-6 .span-data {
   color: #7e8c91;
   background: #b8faee;
   padding: 20px;
@@ -326,7 +326,7 @@ html {
   right: -2px;
   font-weight: 700;
 }
-.fh5co-features-outer .col-sm-6 .span-percent {
+.tk5co-features-outer .col-sm-6 .span-percent {
   color: #fff;
   background: #6ca3ff;
   padding: 18px;
@@ -343,7 +343,7 @@ html {
   bottom: -430px;
   font-weight: 700;
 }
-.fh5co-features-outer .col-sm-6 .circle {
+.tk5co-features-outer .col-sm-6 .circle {
   color: #c3cfe5;
   border: 1px solid #ededed;
   background: #fff;
@@ -360,7 +360,7 @@ html {
   font-weight: 600;
   box-shadow: 0 0 0 5px #f9f9f9;
 }
-.fh5co-features-outer .col-sm-6 .circle-first {
+.tk5co-features-outer .col-sm-6 .circle-first {
   width: 35px;
   display: inline-block;
   line-height: 30px;
@@ -373,7 +373,7 @@ html {
   margin-left: 0px;
   font-weight: 600;
 }
-.fh5co-features-outer .col-sm-6 .circle-middle {
+.tk5co-features-outer .col-sm-6 .circle-middle {
   width: 35px;
   display: inline-block;
   line-height: 30px;
@@ -386,7 +386,7 @@ html {
   margin-left: 50px;
   font-weight: 600;
 }
-.fh5co-features-outer .col-sm-6 .circle-last {
+.tk5co-features-outer .col-sm-6 .circle-last {
   width: 35px;
   display: inline-block;
   line-height: 30px;
@@ -403,16 +403,16 @@ html {
 /* ==========================================================================================================
 										REVIEWS
    ========================================================================================================== */
-.fh5co-reviews-outer {
+.tk5co-reviews-outer {
   width: 100%;
   height: 400px;
   padding: 70px;
   margin-top: 100px;
 }
-.fh5co-reviews-outer .fh5co-reviews-inner {
+.tk5co-reviews-outer .tk5co-reviews-inner {
   margin-top: 100px;
 }
-.fh5co-reviews-outer > h1 {
+.tk5co-reviews-outer > h1 {
   color: #648cff;
   text-transform: uppercase;
   font-size: 30px;
@@ -420,45 +420,45 @@ html {
   margin-bottom: 10px;
   text-align: center;
 }
-.fh5co-reviews-outer > small {
+.tk5co-reviews-outer > small {
   text-align: center;
   display: block;
 }
-.fh5co-reviews-outer .testimonial-desc {
+.tk5co-reviews-outer .testimonial-desc {
   clear: both;
   padding-top: 30px;
   font-weight: 500;
 }
-.fh5co-reviews-outer .testimonial-2 {
+.tk5co-reviews-outer .testimonial-2 {
   margin-left: 50px;
 }
 
 /* ==========================================================================================================
 										BOTTOM
    ========================================================================================================== */
-.fh5co-bottom-outer {
+.tk5co-bottom-outer {
   width: 100%;
   height: 572px;
   background: url("../img/download-section-bg.jpg") no-repeat center;
   margin-top: 120px;
   overflow-x: hidden;
 }
-.fh5co-bottom-outer .fh5co-bottom-inner {
+.tk5co-bottom-outer .tk5co-bottom-inner {
   margin-top: 270px;
 }
-.fh5co-bottom-outer .fh5co-bottom-inner .col-sm-6 h1 {
+.tk5co-bottom-outer .tk5co-bottom-inner .col-sm-6 h1 {
   color: #fff;
   text-transform: uppercase;
   font-size: 30px;
   margin-bottom: 30px;
 }
-.fh5co-bottom-outer .fh5co-bottom-inner .col-sm-6 p {
+.tk5co-bottom-outer .tk5co-bottom-inner .col-sm-6 p {
   width: 350px;
   color: #fff;
   font-size: 14.5px;
   line-height: 1.85em;
 }
-.fh5co-bottom-outer .fh5co-bottom-inner .col-sm-6 img {
+.tk5co-bottom-outer .tk5co-bottom-inner .col-sm-6 img {
   margin-top: 25px;
 }
 
@@ -586,7 +586,7 @@ html {
     overflow-x: hidden;
   }
 
-  .fh5co-hero-inner .fh5co-hero-smartphone {
+  .tk5co-hero-inner .tk5co-hero-smartphone {
     position: absolute;
     right: 50px;
     top: 200px;
@@ -606,7 +606,7 @@ html {
     overflow-x: hidden;
   }
 
-  .fh5co-hero-inner .fh5co-hero-smartphone {
+  .tk5co-hero-inner .tk5co-hero-smartphone {
     position: absolute;
     right: -15px;
     top: 200px;
@@ -618,15 +618,15 @@ html {
     overflow-x: hidden;
   }
 
-  #fh5co-hero-wrapper {
+  #tk5co-hero-wrapper {
     height: 95vh;
   }
 
-  .fh5co-hero-inner {
+  .tk5co-hero-inner {
     margin-top: 30px;
   }
 
-  .fh5co-hero-inner .fh5co-hero-smartphone {
+  .tk5co-hero-inner .tk5co-hero-smartphone {
     position: absolute;
     left: 0;
     right: 0;
@@ -637,12 +637,12 @@ html {
     margin-top: 110px;
   }
 
-  .fh5co-advantages-outer {
+  .tk5co-advantages-outer {
     margin-top: 50px;
     padding-bottom: 0;
   }
 
-  .fh5co-advantages-outer .fh5co-advantages-grid-columns .col-sm-4 .grid-image {
+  .tk5co-advantages-outer .tk5co-advantages-grid-columns .col-sm-4 .grid-image {
     width: 60px;
     float: none;
     display: block;
@@ -653,26 +653,26 @@ html {
     top: 1px;
   }
 
-  .fh5co-advantages-outer .fh5co-advantages-grid-columns .col-sm-4 .grid-title {
+  .tk5co-advantages-outer .tk5co-advantages-grid-columns .col-sm-4 .grid-title {
     float: none;
     text-align: center;
   }
 
-  .fh5co-advantages-outer .fh5co-advantages-grid-columns .col-sm-4 .grid-desc {
+  .tk5co-advantages-outer .tk5co-advantages-grid-columns .col-sm-4 .grid-desc {
     float: none;
     width: 100%;
     text-align: center;
   }
 
-  .fh5co-slider-outer .fh5co-slider-outer {
+  .tk5co-slider-outer .tk5co-slider-outer {
     margin-top: 0px;
   }
 
-  .fh5co-features-outer {
+  .tk5co-features-outer {
     margin-top: -100px;
   }
 
-  .fh5co-features-outer .sm-6-content p {
+  .tk5co-features-outer .sm-6-content p {
     width: 100%;
   }
 
@@ -686,7 +686,7 @@ html {
   }
 }
 @media screen and (max-width: 993px) {
-  .fh5co-features-grid-columns .col-sm-6 {
+  .tk5co-features-grid-columns .col-sm-6 {
     -ms-flex: 0 0 50%;
     flex: 0 0 100%;
     width: 100%;
@@ -695,7 +695,7 @@ html {
     text-align: center;
   }
 
-  .fh5co-features-outer .col-sm-6 .col-sm-image-container {
+  .tk5co-features-outer .col-sm-6 .col-sm-image-container {
     position: relative;
     width: 295px !important;
     text-align: center;
@@ -706,7 +706,7 @@ html {
     float: none !important;
   }
 
-  .fh5co-slider-outer .carousel-right-arrow {
+  .tk5co-slider-outer .carousel-right-arrow {
     position: absolute;
     right: -70px;
     bottom: 250px;
@@ -714,7 +714,7 @@ html {
     color: #ececec;
   }
 
-  .fh5co-slider-outer .carousel-left-arrow {
+  .tk5co-slider-outer .carousel-left-arrow {
     position: absolute;
     left: -70px;
     bottom: 250px;
@@ -730,41 +730,41 @@ html {
     float: none;
   }
 
-  .fh5co-features-outer .col-sm-6 .span-percent, .fh5co-features-outer .col-sm-6 .span-free {
+  .tk5co-features-outer .col-sm-6 .span-percent, .tk5co-features-outer .col-sm-6 .span-free {
     left: -15px;
     bottom: 140px;
   }
 
-  .fh5co-features-outer .col-sm-6 .span-new {
+  .tk5co-features-outer .col-sm-6 .span-new {
     right: -10px;
   }
 
-  .fh5co-features-outer .col-sm-6 .span-data {
+  .tk5co-features-outer .col-sm-6 .span-data {
     right: -15px;
   }
 
-  .fh5co-features-outer .col-sm-6 .circle {
+  .tk5co-features-outer .col-sm-6 .circle {
     position: static;
     display: inline-block;
     margin: 25px 5px;
   }
 
-  .fh5co-advantages-outer .second-title {
+  .tk5co-advantages-outer .second-title {
     margin-top: 60px;
   }
 
-  .fh5co-features-grid-columns {
+  .tk5co-features-grid-columns {
     display: flex;
     flex-direction: column;
   }
-  .fh5co-features-grid-columns .in-order-4 {
+  .tk5co-features-grid-columns .in-order-4 {
     order: 1;
   }
-  .fh5co-features-grid-columns .in-order-3 {
+  .tk5co-features-grid-columns .in-order-3 {
     order: 2;
   }
 
-  .fh5co-reviews-outer {
+  .tk5co-reviews-outer {
     padding: 0;
   }
 
@@ -785,22 +785,22 @@ html {
   }
 }
 @media screen and (max-width: 800px) {
-  .fh5co-hero-inner > h1 {
+  .tk5co-hero-inner > h1 {
     color: #fff;
     font-weight: 300;
     font-size: 45px;
     letter-spacing: 2px;
   }
 
-  #fh5co-hero-wrapper {
+  #tk5co-hero-wrapper {
     height: 800px;
   }
 
-  .fh5co-advantages-outer .fh5co-advantages-grid-columns {
+  .tk5co-advantages-outer .tk5co-advantages-grid-columns {
     margin-top: 40px;
   }
 
-  .fh5co-advantages-grid-columns .col-sm-4 {
+  .tk5co-advantages-grid-columns .col-sm-4 {
     -ms-flex: 0 0 100%;
     flex: 0 0 100%;
     width: 100%;
@@ -809,41 +809,41 @@ html {
     text-align: center;
   }
 
-  .fh5co-hero-inner .fh5co-hero-smartphone {
+  .tk5co-hero-inner .tk5co-hero-smartphone {
     height: 420px;
     top: 310px;
   }
 
-  .fh5co-advantages-outer .second-title {
+  .tk5co-advantages-outer .second-title {
     margin-top: 60px;
   }
 
-  .fh5co-bottom-outer {
+  .tk5co-bottom-outer {
     margin-top: 40px;
     overflow: hidden;
   }
 
-  .fh5co-bottom-outer .fh5co-bottom-inner {
+  .tk5co-bottom-outer .tk5co-bottom-inner {
     margin-top: 50px;
   }
 
-  .fh5co-slider-outer {
+  .tk5co-slider-outer {
     padding: 0;
   }
 
-  .fh5co-slider-outer .carousel-left-arrow {
+  .tk5co-slider-outer .carousel-left-arrow {
     left: 50px;
     font-size: 50px;
     bottom: 190px;
   }
 
-  .fh5co-slider-outer .carousel-right-arrow {
+  .tk5co-slider-outer .carousel-right-arrow {
     right: 50px;
     font-size: 50px;
     bottom: 190px;
   }
 
-  .fh5co-reviews-inner .col-sm-5 {
+  .tk5co-reviews-inner .col-sm-5 {
     -ms-flex: 0 0 75%;
     flex: 0 0 75%;
     width: 75%;
@@ -852,25 +852,25 @@ html {
     text-align: center;
   }
 
-  .fh5co-slider-outer .item img {
+  .tk5co-slider-outer .item img {
     height: 300px;
   }
 
-  .fh5co-reviews-outer {
+  .tk5co-reviews-outer {
     height: auto;
   }
 
-  .fh5co-reviews-outer .fh5co-reviews-inner {
+  .tk5co-reviews-outer .tk5co-reviews-inner {
     margin-top: 50px;
   }
 
-  .fh5co-bottom-outer {
+  .tk5co-bottom-outer {
     background-position: center bottom;
     overflow: hidden;
     height: auto;
   }
 
-  .fh5co-bottom-inner {
+  .tk5co-bottom-inner {
     overflow: hidden;
     padding-bottom: 50px;
     text-align: center;
@@ -883,7 +883,7 @@ html {
     overflow-x: hidden;
   }
 
-  .fh5co-bottom-outer .fh5co-bottom-inner .col-sm-6 p {
+  .tk5co-bottom-outer .tk5co-bottom-inner .col-sm-6 p {
     width: 90%;
     margin: 0 auto;
   }
@@ -928,23 +928,23 @@ html {
   }
 }
 @media screen and (max-width: 520px) {
-  #fh5co-hero-wrapper {
+  #tk5co-hero-wrapper {
     height: 900px;
   }
 
-  .fh5co-hero-inner > h1 {
+  .tk5co-hero-inner > h1 {
     font-size: 40px;
   }
 
-  .fh5co-hero-inner > p {
+  .tk5co-hero-inner > p {
     width: 100%;
   }
 
-  .fh5co-hero-inner {
+  .tk5co-hero-inner {
     text-align: center;
   }
 
-  .fh5co-hero-inner .fh5co-hero-smartphone {
+  .tk5co-hero-inner .tk5co-hero-smartphone {
     height: 450px;
     top: 420px;
     margin-top: 70px;
@@ -954,20 +954,20 @@ html {
     font-size: 22px;
   }
 
-  .fh5co-slider-outer .carousel-left-arrow {
+  .tk5co-slider-outer .carousel-left-arrow {
     left: 0;
   }
 
-  .fh5co-slider-outer .carousel-right-arrow {
+  .tk5co-slider-outer .carousel-right-arrow {
     right: 0;
   }
 
-  .fh5co-slider-inner {
+  .tk5co-slider-inner {
     margin-top: 50px;
     margin-bottom: 30px;
   }
 
-  .fh5co-reviews-inner .col-sm-5 {
+  .tk5co-reviews-inner .col-sm-5 {
     -ms-flex: 0 0 90%;
     flex: 0 0 90%;
     width: 90%;
@@ -976,7 +976,7 @@ html {
     text-align: center;
   }
 
-  .fh5co-advantages-outer .span-perfect {
+  .tk5co-advantages-outer .span-perfect {
     margin-top: 80px;
     font-size: 18px;
     margin-bottom: 15px;
@@ -985,7 +985,7 @@ html {
     text-align: center;
   }
 
-  .fh5co-advantages-outer .span-features {
+  .tk5co-advantages-outer .span-features {
     font-size: 24px;
     display: block;
     width: 100%;
