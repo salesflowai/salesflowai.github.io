@@ -218,13 +218,10 @@ html {
 .tk5co-advantages-outer .tk5co-advantages-grid-columns .col-sm-4 .grid-desc {
   float: right;
   font-size: 14px;
-  /* padding-right: 7%; */
   width: 70%;
-  /* color: #c7c7c7; */
   margin-top: 10px;
   line-height: 1.87em;
   font-weight: 400;
-  /* font: 400 16px/1.625 Roboto, sans-serif; */
   color: #5f6368;
 
 }
@@ -308,6 +305,7 @@ html {
 .tk5co-features-outer .col-sm-6 {
   margin-top: 80px;
 }
+
 /* 
 .tk5co-features-outer .col-sm-6 img {
   height: 550px;
@@ -836,7 +834,7 @@ html {
   }
 
   .img-float-right {
-    
+
     float: none;
     flex: 0 0 100%;
     width: 80%;
@@ -1211,7 +1209,7 @@ html {
 }
 
 /* new media q */
-@media screen and (max-width: 767px) {
+/* @media screen and (max-width: 767px) {
   .tk5co-hero-inner .download-btn-first {
     width: 100%;
     margin: 0 0 25px;
@@ -1327,11 +1325,9 @@ html {
   margin: 0 0 100px
 }
 
-/* .solutions-sec .services-area .text h3 {
-  font: 500 20px/28px Roboto, sans-serif
-} */
+
 
 .solutions-sec .services-area .text p,
 .solutions-sec .services-area .text ul li {
   font: 400 16px/28px Roboto, sans-serif
-}
+} */
