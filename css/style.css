@@ -190,7 +190,7 @@ html {
   float: left;
   padding-right: 30px;
   position: relative;
-  top: 1px;
+  top: 8px;
   color: #648cff;
 }
 
@@ -218,7 +218,7 @@ html {
 .tk5co-advantages-outer .tk5co-advantages-grid-columns .col-sm-4 .grid-desc {
   float: right;
   /* font-size: 13px; */
-  padding-right: 7%;
+  /* padding-right: 7%; */
   width: 70%;
   /* color: #c7c7c7; */
   margin-top: 10px;
@@ -307,10 +307,10 @@ html {
 .tk5co-features-outer .col-sm-6 {
   margin-top: 80px;
 }
-
+/* 
 .tk5co-features-outer .col-sm-6 img {
   height: 550px;
-}
+} */
 
 .tk5co-features-outer .sm-6-content {
   margin-top: 250px;
@@ -835,11 +835,22 @@ html {
   }
 
   .img-float-right {
+    
     float: none;
+    flex: 0 0 100%;
+    width: 100%;
+    max-width: 100%;
+    margin: 30px auto;
+    text-align: center;
   }
 
   .img-float-left {
     float: none;
+    flex: 0 0 100%;
+    width: 100%;
+    max-width: 100%;
+    margin: 30px auto;
+    text-align: center;
   }
 
   .tk5co-features-outer .col-sm-6 .span-percent,
@@ -1225,4 +1236,99 @@ html {
 
 
 
+}
+
+
+
+/* new css */
+
+.solutions-sec {
+  padding: 75px 0
+}
+
+.solutions-sec {
+  padding: 75px 0
+}
+
+.solutions-sec .services-area {
+  margin: 50px 0 0
+}
+
+.solutions-sec .services-area .text {
+  margin: 0 0 150px
+}
+
+.solutions-sec .services-area .text h3 {
+  font-size: 28px;
+  font-weight: 600;
+  text-transform: capitalize;
+  color: #648cff;
+  position: relative;
+  margin: 0 0 25px;
+  display: block;
+}
+
+.solutions-sec .services-area .text h3:after {
+  width: 110px;
+  height: 2px;
+  background: #ffbc00;
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 0;
+  display: block
+}
+
+.solutions-sec .services-area .text p {
+  font: 400 16px/1.625 Roboto, sans-serif;
+  color: #5f6368;
+  margin: 0 0 30px
+}
+
+.solutions-sec .services-area .text ul {
+  list-style: none;
+  padding: 0 0 0 30px;
+  position: relative
+}
+
+.solutions-sec .services-area .text ul li {
+  font: 400 16px/1.625 Roboto, sans-serif;
+  color: #5f6368;
+  margin: 0 0 20px;
+  position: relative
+}
+
+.solutions-sec .services-area .text ul li:last-child {
+  margin: 0
+}
+
+.solutions-sec .services-area .text ul li:before {
+  content: '\f053';
+  font: 14px/14px FontAwesome;
+  color: #000;
+  position: absolute;
+  left: -25px;
+  top: 7px
+}
+
+.slution-by,
+.solutions-sec {
+  padding: 40px 0
+}
+
+.solutions-sec .services-area {
+  margin: 20px 0 0
+}
+
+.solutions-sec .services-area .text {
+  margin: 0 0 100px
+}
+
+/* .solutions-sec .services-area .text h3 {
+  font: 500 20px/28px Roboto, sans-serif
+} */
+
+.solutions-sec .services-area .text p,
+.solutions-sec .services-area .text ul li {
+  font: 400 16px/28px Roboto, sans-serif
 }
