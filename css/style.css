@@ -217,13 +217,14 @@ html {
 
 .tk5co-advantages-outer .tk5co-advantages-grid-columns .col-sm-4 .grid-desc {
   float: right;
-  /* font-size: 13px; */
+  font-size: 14px;
   /* padding-right: 7%; */
   width: 70%;
   /* color: #c7c7c7; */
   margin-top: 10px;
   line-height: 1.87em;
-  font: 400 16px/1.625 Roboto, sans-serif;
+  font-weight: 400;
+  /* font: 400 16px/1.625 Roboto, sans-serif; */
   color: #5f6368;
 
 }
