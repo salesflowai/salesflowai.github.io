@@ -1209,7 +1209,7 @@ html {
 }
 
 /* new media q */
-/* @media screen and (max-width: 767px) {
+ @media screen and (max-width: 767px) {
   .tk5co-hero-inner .download-btn-first {
     width: 100%;
     margin: 0 0 25px;
