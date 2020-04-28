@@ -948,7 +948,11 @@
 		if ($.support.transform3d && $.support.transition) {
 			this.$stage.css({
 				transform: 'translate3d(' + coordinate + 'px,0px,0px)',
+<<<<<<< HEAD
+				transition: (this.speed() / 500) + 's' + (
+=======
 				transition: (this.speed() / 600) + 's' + (
+>>>>>>> c383bf5cf93c5d8ac9ec8c7224f66aa634ba76ed
 					this.settings.slideTransition ? ' ' + this.settings.slideTransition : ''
 				)
 			});
