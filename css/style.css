@@ -119,23 +119,23 @@ html {
 }
 
 .tk5co-hero-inner .download-btn-first {
-  font: 400 20px/30px Roboto, sans-serif;
+
   padding: 10px 50px;
-  font-weight: 500;
+  font-size: 18px;
+  font-weight: 400;
   color: #234197;
-  font: 400 20px/30px Roboto, sans-serif;
-  /* color: #4dc4e8; */
-  /* text-transform: capitalize; */
+  /* font: 400 20px/30px Roboto, sans-serif; */
+
   position: relative;
   /* margin: 0 0 25px; */
   /* display: block; */
 }
 
 .tk5co-hero-inner .features-btn-first {
-  font: 400 20px/30px Roboto, sans-serif;
+  /* font: 400 20px/30px Roboto, sans-serif; */
   padding: 10px 50px;
+  font-size: 18px;
   font-weight: 400;
-  font-weight: 500;
   background: #234197;
   color: #fff;
   margin-left: 10px;
@@ -1209,7 +1209,7 @@ html {
 }
 
 /* new media q */
- @media screen and (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .tk5co-hero-inner .download-btn-first {
     width: 100%;
     margin: 0 0 25px;
@@ -1330,4 +1330,6 @@ html {
 .solutions-sec .services-area .text p,
 .solutions-sec .services-area .text ul li {
   font: 400 16px/28px Roboto, sans-serif
-} */
+}
+
+*/
