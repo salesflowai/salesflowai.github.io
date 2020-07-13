@@ -668,7 +668,7 @@ html {
 
 .footer-outer .border-bottom-footer {
   height: 1px;
-  width: 60%;
+  width: 100%;
   margin: 0 auto;
   border: 1px solid #434769;
   display: block;
@@ -1331,4 +1331,71 @@ html {
   font: 400 16px/28px Roboto, sans-serif
 }
 
-*/
+.count-flag {
+  display: flex;
+  margin-bottom: 15px;
+}
+.count-flag h4 {
+  padding-left: 10px;
+  color: #fff;
+  font-size: 18px;
+}
+.footer-addre-content p {
+  color: #e6e6e6;
+}
+.footer-addre-content a {
+  color: #e6e6e6;
+}
+.iq-copyright {
+  float: left;
+}
+.list-inline  {
+  text-align: right;
+}
+.list-inline-item a {
+  color: #fff;
+}
+
+/*---------------------------------------------------------------------
+                          Privecy _term Conditionb
+-----------------------------------------------------------------------*/
+.common_section {
+  padding: 80px 0 60px;
+}
+
+.wrap-in {
+  border: 1px solid #ececec;
+}
+
+.wrap-in .content {
+  padding: 30px;
+}
+
+.wrap-in .page-head {
+  border-bottom: 1px solid #ececec;
+  padding: 20px 30px;
+}
+
+.wrap-in .page-head .center-heading h1 {
+  font-size: 32px;
+  margin: 0;
+  /* font-family: "WorkSans-SemiBold"; */
+}
+
+.wrap-in .content h2 {
+  /* font-family: "WorkSans-SemiBold"; */
+  margin: 25px 0 10px;
+  font-size: 22px;
+  line-height: 32px;
+}
+
+@media (max-width: 1680px) {
+  .wrap-in .page-head {
+    padding: 15px 15px;
+  }
+
+  .wrap-in .content {
+    padding: 15px;
+  }
+
+}
